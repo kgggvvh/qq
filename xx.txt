@@ -1,0 +1,68 @@
+📻广播频道,#genre#
+周杰伦电台,https://stream.zeno.fm/zibntg5gtr7vv
+每日歌曲,https://lhttp.qingting.fm/live/5021381/64k.mp3
+亚洲经典,https://lhttp.qingting.fm/live/5021912/64k.mp3
+HD音乐,https://lhttp.qingting.fm/live/15318341/64k.mp3
+亚洲天空,https://lhttp.qingting.fm/live/20071/64k.mp3
+亚洲音乐,https://lhttp.qingting.fm/live/5022405/64k.mp3
+亚洲粤语,https://lhttp.qingting.fm/live/15318569/64k.mp3
+贵州音乐,https://lhttp.qingting.fm/live/20067/64k.mp3
+楚天交通广播,https://satellitepull.cnr.cn/live/wx32hubctjtgb/playlist.m3u8
+楚天音乐广播,https://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
+湖北妇女儿童,https://satellitepull.cnr.cn/live/wx32hubfnetgb/playlist.m3u8
+湖北交通广播,https://satellitepull.cnr.cn/live/wx32hubjtgb/playlist.m3u8
+湖北经典音乐,https://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
+湖北经济广播,https://satellitepull.cnr.cn/live/wx32hubjjgb/playlist.m3u8
+湖北农村广播,https://satellitepull.cnr.cn/live/wx32hubncgb/playlist.m3u8
+湖北生活广播,https://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
+湖北资讯广播,https://satellitepull.cnr.cn/live/wx32hubzxgb/playlist.m3u8
+湖北之声,https://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
+湖北音乐,https://lhttp.qingting.fm/live/1289/64k.mp3
+湖南音乐,https://lhttp.qingting.fm/live/4979/64k.mp3
+吉林音乐,https://lhttp.qingting.fm/live/1831/64k.mp3
+江西音乐,http://lhttp.qingting.fm/live/1802/64k.mp3
+山西音乐,https://lhttp.qingting.fm/live/4932/64k.mp3
+福建音乐,https://lhttp.qingting.fm/live/4585/64k.mp3
+河北音乐,https://lhttp.qingting.fm/live/1649/64k.mp3
+浙江音乐,https://lhttp.qingting.fm/live/4866/64k.mp3
+亚洲粤语,https://lhttp.qingting.fm/live/15318569/64k.mp3
+重庆音乐,https://lhttp.qingting.fm/live/647/64k.mp3
+江苏音乐,https://lhttp.qingting.fm/live/4936/64k.mp3
+陕西音乐,https://lhttp.qingting.fm/live/4873/64k.mp3
+广西音乐,https://lhttp.qingting.fm/live/4875/64k.mp3
+河南音乐,https://lhttp.qingting.fm/live/1206/64k.mp3
+河南音乐2,https://lhttp.qingting.fm/live/1206/64k.mp3
+四川音乐,https://lhttp.qingting.fm/live/1110/64k.mp3
+楚天音乐广播 FM105.8 (Opt-1)[0*0],http://ls.qingting.fm/live/1289.m3u8
+楚天交通广播 FM92.7[0*0],http://ls.qingting.fm/live/1291.m3u8
+重庆音乐广播 FM88.10*0][0*0],http://ls.qingting.fm/live/647.m3u8
+襄阳音乐广播[0*0],http://ls.qingting.fm/live/5057.m3u8
+厦门音乐广播0*0][0*0],http://ls.qingting.fm/live/1739.m3u8
+厦门新闻广播0*0][0*0],http://ls.qingting.fm/live/1737.m3u8
+东莞FM104音乐广播[0*0],http://ls.qingting.fm/live/93619.m3u8
+云南音乐广播 FM97[0*0],http://ls.qingting.fm/live/1929.m3u8
+保定经典964汽车音乐广播[0*0],http://ls.qingting.fm/live/2227017.m3u8
+太原音乐广播 FM102.6[0*0],http://ls.qingting.fm/live/1185.m3u8
+山东音乐广播 FM99.1[0*0],http://ls.qingting.fm/live/1665.m3u8
+济南音乐广播(MUSIC887)[0*0],http://ls.qingting.fm/live/1671.m3u8
+温州私家车音乐广播 FM100.3[0*0],http://ls.qingting.fm/live/23865.m3u8
+西安音乐广播 FM93.1 (Opt-1)[0*0],http://ls.qingting.fm/live/1612.m3u8
+贵州电台音乐广播 FM91.6[0*0],http://ls.qingting.fm/live/23937.m3u8
+郴州音乐交通广播 FM102.8[0*0],http://ls.qingting.fm/live/86747.m3u8
+陕西音乐广播 FM98.8[0*0],http://ls.qingting.fm/live/4873.m3u8
+青海交通音乐广播 FM97.2[0*0],http://ls.qingting.fm/live/5009.m3u8
+鹤壁交通音乐广播 FM93.5[0*0],http://ls.qingting.fm/live/3032681.m3u8
+龙广音乐广播 FM95.8[0*0],http://ls.qingting.fm/live/4969.m3u8
+山西音乐广播,https://radiolive.sxrtv.com/live/yinyue/playlist.m3u8
+中国之声,https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+华语环球,https://sk.cri.cn/hyhq.m3u8
+环球资讯,https://sk.cri.cn/905.m3u8
+轻松调频,https://sk.cri.cn/915.m3u8
+世界华声,https://sk.cri.cn/hxfh.m3u8
+China Plus Radio,https://sk.cri.cn/am846.m3u8
+HITFM国际流行音乐,https://sk.cri.cn/887.m3u8
+
+免费版,#genre# 
+有缘江湖见,
+等你等了那么久,https://vd3.bdstatic.com/mda-mg6ak6heh790mfm3/sc/cae_h264/1625645654609341375/mda-mg6ak6heh790mfm3.mp4?pd=19&vt=1
+
